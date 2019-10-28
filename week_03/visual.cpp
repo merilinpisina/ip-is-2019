@@ -42,7 +42,7 @@ int main() {
 // Task 3:
     cout << "Taks 3:\n";
     int e = 1;
-    cout << "Enter a hight for the triangle: ";
+    cout << "Enter a hight value for the triangle: ";
     cin >> n;
 
     for(int i = 1; i <= n; i ++){
