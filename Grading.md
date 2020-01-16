@@ -38,3 +38,10 @@
 *filter* - трие елементите на нечетните индекси
 
 Пример: (54 9 6 3 1 3.5 6.1) -> (54 6 1 6.1)
+
+
+Program flow:
+
+- Enter size of array and the array itself.
+
+- Include the name of the operation until we enter "0" (the name of the operation is one of: "map", "reverse", ...)
